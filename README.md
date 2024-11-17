@@ -10,7 +10,7 @@
 
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 
-    <title>Nazifa Tasnim Ahmad</title>
+    <title>Al - Amin Wazed Shourov</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
